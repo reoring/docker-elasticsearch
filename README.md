@@ -1,0 +1,2 @@
+# Docker container of Elasticsearch
+
